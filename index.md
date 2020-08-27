@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Maia's Computer Programming Portfolio Magic!
 
 You can use the [editor on GitHub](https://github.com/Magical2121/computerprogrammingmagic/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
