@@ -1,5 +1,7 @@
 ## Welcome to Maia's Computer Programming Portfolio Magic!
 
+![typing test](https://github.com/Magical2121/computerprogrammingmagic/blob/gh-pages/images/Screen%20Shot%202020-08-27%20at%208.35.26%20AM.png?raw=true)
+
 You can use the [editor on GitHub](https://github.com/Magical2121/computerprogrammingmagic/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
